@@ -1,13 +1,15 @@
 .weatherLocationCont {
     width: calc(100% - 20px);
     min-width: 410px;
-    padding:  4px;
+    padding:  5px;
     font-family: 'Roboto';
     font-size: 15px;
     box-shadow: 10px 10px 42px -12px;
     box-sizing: border-box;
     margin-left:10px;
     margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
 }
 .locationCont {
     margin:15px;
